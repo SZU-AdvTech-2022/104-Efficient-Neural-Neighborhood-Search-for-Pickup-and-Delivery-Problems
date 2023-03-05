@@ -1,0 +1,7 @@
+@inproceedings{REPO-105,
+    author = "Ma, Yining and Li, Jingwen and Cao, Zhiguang and Song, Wen and Guo, Hongliang and Gong, Yuejiao and Chee, Yeow Meng",
+    booktitle = "Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence, {IJCAI-22}",
+    pages = "4776--4784",
+    title = "{Efficient Neural Neighborhood Search for Pickup and Delivery Problems}",
+    year = "2022"
+}
